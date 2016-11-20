@@ -1,7 +1,10 @@
 Treeman by Dan Coen
 
+Help our hero treeman put out the fires that are threatening his
+forest.
+
 The game uses left, right, up and space on the keyboard for controls. 
-You'll need to use the mouse for the menu screen.
+You'll need to use the mouse for the menu screen. 
 
 This game was created as part of my learning experience beginning
 to write code for games in Fall 2015. It's not the most polished 
